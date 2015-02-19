@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.7.tls (February 19, 2015)
+* applied changes to allow selection of TLS version (from eventmachine-le)
+
 ## 1.0.7 (February 10, 2015)
 * fix delay in kqueue/epoll reactor shutdown when timers exist [#587]
 * fix memory leak introduced in v1.0.5 [#586]
